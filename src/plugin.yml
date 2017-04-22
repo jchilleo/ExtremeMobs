@@ -1,0 +1,8 @@
+name: ExtremeMobs
+version: 1.0
+main: me.namakius.ExtremeMobs.ExtremeMobs
+author: Namakius
+commands:
+  extrememobs:
+    description: ExtremeMobs
+  
